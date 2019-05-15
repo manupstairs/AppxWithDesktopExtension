@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "AppxWIthDesktopEx2", "AppxWIthDesktopEx2.wapproj", "{B6D60E46-874B-442C-8BCD-AF645B23BFEA}"
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "AppxWIthDesktopEx2", "AppxWIthDesktopEx2\AppxWIthDesktopEx2.wapproj", "{B6D60E46-874B-442C-8BCD-AF645B23BFEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWPClient2", "..\UWPClient2\UWPClient2.csproj", "{DF38A849-9FDB-4394-840A-86C6A890721D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWPClient2", "UWPClient2\UWPClient2.csproj", "{DF38A849-9FDB-4394-840A-86C6A890721D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp", "..\WinFormsApp\WinFormsApp.csproj", "{B3142885-6500-4EDE-92C0-D7C0BEC6F9CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{B3142885-6500-4EDE-92C0-D7C0BEC6F9CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
