@@ -74,7 +74,9 @@
   <ItemGroup>
     <Content Include="Images\Wide310x150Logo.scale-400.png" />
     <None Include="AppxWithDesktopExtension_StoreKey.pfx" />
-    <Content Include="DotNetConsoleApp.exe" />
+    <Content Include="DotNetConsoleApp\DotNetConsoleApp.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Images\LargeTile.scale-100.png" />
     <Content Include="Images\LargeTile.scale-125.png" />
     <Content Include="Images\LargeTile.scale-150.png" />
